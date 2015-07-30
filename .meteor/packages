@@ -10,3 +10,4 @@ insecure
 grigio:babel
 sanjo:jasmine
 velocity:html-reporter
+xolvio:template-isolator
